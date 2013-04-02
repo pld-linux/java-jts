@@ -2,12 +2,12 @@
 %include	/usr/lib/rpm/macros.java
 Summary:	JTS Topology Suite
 Name:		java-%{srcname}
-Version:	1.11
-Release:	0.1
+Version:	1.12
+Release:	1
 License:	LGPL v2.1
 Group:		Libraries/Java
 Source0:	http://downloads.sourceforge.net/jts-topo-suite/jts-%{version}.zip
-# Source0-md5:	fdf2401361290c73cb0785bb25c9257f
+# Source0-md5:	88c9842c28b09ef4d5333a3057f4bb76
 Source1:	build.xml
 URL:		http://tsusiatsoftware.net/jts/main.html
 BuildRequires:	ant
