@@ -1,5 +1,4 @@
 %define		srcname		jts
-%include	/usr/lib/rpm/macros.java
 Summary:	JTS Topology Suite
 Name:		java-%{srcname}
 Version:	1.12
